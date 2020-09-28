@@ -1,0 +1,98 @@
+{
+	"title": "网络流 24 题",
+	"description": "网络流入门的 24 个经典问题",
+	"problem": [
+		{
+			"oj": "loj",
+			"problem": "6000"
+		},
+		{
+			"oj": "loj",
+			"problem": "6001"
+		},
+		{
+			"oj": "loj",
+			"problem": "6002"
+		},
+		{
+			"oj": "loj",
+			"problem": "6003"
+		},
+		{
+			"oj": "loj",
+			"problem": "6004"
+		},
+		{
+			"oj": "loj",
+			"problem": "6005"
+		},
+		{
+			"oj": "loj",
+			"problem": "6006"
+		},
+		{
+			"oj": "loj",
+			"problem": "6007"
+		},
+		{
+			"oj": "loj",
+			"problem": "6008"
+		},
+		{
+			"oj": "loj",
+			"problem": "6009"
+		},
+		{
+			"oj": "loj",
+			"problem": "6010"
+		},
+		{
+			"oj": "loj",
+			"problem": "6011"
+		},
+		{
+			"oj": "loj",
+			"problem": "6012"
+		},
+		{
+			"oj": "loj",
+			"problem": "6013"
+		},
+		{
+			"oj": "loj",
+			"problem": "6014"
+		},
+		{
+			"oj": "loj",
+			"problem": "6015"
+		},
+		{
+			"oj": "loj",
+			"problem": "6021"
+		},
+		{
+			"oj": "loj",
+			"problem": "6022"
+		},
+		{
+			"oj": "loj",
+			"problem": "6023"
+		},
+		{
+			"oj": "loj",
+			"problem": "6024"
+		},
+		{
+			"oj": "loj",
+			"problem": "6025"
+		},
+		{
+			"oj": "loj",
+			"problem": "6026"
+		},
+		{
+			"oj": "loj",
+			"problem": "6027"
+		}
+	]
+}
